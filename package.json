@@ -1,9 +1,12 @@
 {
   "name": "Helix",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A visual Git repository manager with Apple-inspired design",
   "main": "main.js",
-  "author": "Helix",
+  "author": {
+    "name": "Helix",
+    "email": "nqx2004@gmail.com"
+  },
   "scripts": {
     "start": "electron .",
     "dev": "electron . --dev",
